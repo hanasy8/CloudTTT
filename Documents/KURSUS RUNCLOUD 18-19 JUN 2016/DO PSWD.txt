@@ -1,0 +1,22 @@
+MySQL ROOT PASSWORD: CVchJICpGkva7L823Lgl_p2RpMol024jkKmMvGQ4NS8W_wUx8HgKNQE
+User: runcloud
+Password: BrggaSa0Yy7YfvMf0NmWLxPSZNXzqzp4ywEdwASkwxk7sRlZnQWF2Qv
+
+
+
+
+You can now manage your server using https://manage.runcloud.io
+root@ubuntu-s-1vcpu-1gb-sgp1-01:~#
+
+
+pswd DB
+
+MhF=jNCL+ado,e=SQDtkixcNa-r.dciR
+
+
+un :hanasy8
+PSWD WPRESS
+
+KA03ikXfDM8EwrT5Hh
+
+zencoding
